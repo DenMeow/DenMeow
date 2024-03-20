@@ -2,5 +2,5 @@
 
 Junior Backend разработчик
 --------------------
-![213911110-aedbef38-a29f-4b6b-a65c-11608b4f75a5](https://github.com/DenMeow/DenMeow/assets/127181531/239ee402-c1c9-4fdd-bd8f-e10c27d790fa)![213911110-aedbef38-a29f-4b6b-a65c-11608b4f75a5](https://github.com/DenMeow/DenMeow/assets/127181531/239ee402-c1c9-4fdd-bd8f-e10c27d790fa)
+![213911110-aedbef38-a29f-4b6b-a65c-11608b4f75a5](https://github.com/DenMeow/DenMeow/assets/127181531/239ee402-c1c9-4fdd-bd8f-e10c27d790fa)
 

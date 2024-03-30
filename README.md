@@ -2,5 +2,16 @@
 
 Junior Backend разработчик
 --------------------
-![213911110-aedbef38-a29f-4b6b-a65c-11608b4f75a5](https://github.com/DenMeow/DenMeow/assets/127181531/239ee402-c1c9-4fdd-bd8f-e10c27d790fa)
+<p align="center">
+ <img width="600" src="github-snake.svg" alt="snake"/>
+</p>
 
+- 🔭: Студент РТУ МИРЭА.
+
+- 😇: С++ не такой страшный как все говорят :)
+
+- 🏋️: Участник Тренировок по Алгоритмам от Яндекс!
+
+🔥 Немного статистики и моих проектов:
+----------------
+[![KnlnKS's LeetCode stats](https://leetcode-stats-six.vercel.app/?username=DenMeow)](https://github.com/DenMeow/leetcode-stats)

@@ -14,4 +14,4 @@ Junior Backend разработчик
 
 🔥 Немного статистики и моих проектов:
 ----------------
-![Leetcode Stats](https://leetcard.jacoblin.cool/JacobLinCool?theme=nord)
+![Leetcode Stats](https://leetcard.jacoblin.cool/DenMeow?theme=nord)

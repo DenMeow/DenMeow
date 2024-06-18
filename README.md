@@ -14,4 +14,4 @@ Junior Backend разработчик
 
 🔥 Немного статистики и моих проектов:
 ----------------
-[![KnlnKS's LeetCode stats](https://leetcode-stats-six.vercel.app/?username=DenMeow)](https://github.com/DenMeow/leetcode-stats)
+![Leetcode Stats](https://leetcard.jacoblin.cool/JacobLinCool?theme=nord)

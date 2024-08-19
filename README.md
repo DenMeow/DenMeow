@@ -6,7 +6,7 @@ Junior Backend разработчик
  <img width="600" src="github-snake.svg" alt="snake"/>
 </p>
 
-- 🔭: Студент РТУ МИРЭА
+- 🔭: Студент РТУ МИРЭА (3 курс)
 
 - 😇: С++ разработка :)
 

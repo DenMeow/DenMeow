@@ -1,4 +1,4 @@
-# Привет, меня зовут Денис! ![happy-happy-happy-happy](https://github.com/DenMeow/DenMeow/assets/127181531/bc9b1125-7b50-49f1-a247-b9fe0eaa700b)
+# Привет, меня зовут Денис! 
 
 Backend разработчик
 --------------------

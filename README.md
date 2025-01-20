@@ -2,7 +2,7 @@
 
 ## 🙋🏻‍♂️𝔹𝕖𝕣𝕖𝕫𝕟𝕚𝕜𝕖𝕣 𝔻𝕖𝕟𝕚𝕤
 
-# Начинающий С++ Backend разработчик
+# 🤓 Начинающий С++ Backend разработчик
 
 <p align="center">
  <img width="600" src="github-snake.svg" alt="snake"/>
@@ -16,5 +16,23 @@
 
 - 🥸: Полуфинал Yandex Cup 2024г (Backend)🟡
 
-🔥 Немного моих проектов:
-----------------
+# 💪🏻 Мой стек технологий:
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg" weight = "40" height = "40"/>&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/qt/qt-original.svg" weight = "40" height = "40"/>&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original-wordmark.svg" weight = "40" height = "40"/>&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original-wordmark.svg" weight = "40" height = "40"/>&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg" weight = "40" height = "40"/>&nbsp;
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original-wordmark.svg" weight = "40" height = "40"/>&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original-wordmark.svg" weight = "40" height = "40"/>&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/dbeaver/dbeaver-original.svg" weight = "40" height = "40"/>&nbsp;
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original-wordmark.svg" weight = "40" height = "40"/>&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pycharm/pycharm-original.svg" weight = "40" height = "40"/>&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jupyter/jupyter-original-wordmark.svg" weight = "40" height = "40"/>&nbsp;
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original-wordmark.svg" weight = "40" height = "40"/>&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original-wordmark.svg" weight = "40" height = "40"/>&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" weight = "40" height = "40"/>&nbsp;
+
+# 🔥 Немного моих проектов:
